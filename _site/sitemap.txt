@@ -1,13 +1,14 @@
 
-http://dtkaplan.github.io/DCFcontent/archive.html
-http://dtkaplan.github.io/DCFcontent/atom.xml
-http://dtkaplan.github.io/DCFcontent/categories.html
-http://dtkaplan.github.io/DCFcontent/index.html
-http://dtkaplan.github.io/DCFcontent/pages.html
-http://dtkaplan.github.io/DCFcontent/rss.xml
-http://dtkaplan.github.io/DCFcontent/sitemap.txt
-http://dtkaplan.github.io/DCFcontent/tags.html
+https://dl.dropboxusercontent.com/u/5098197/archive.html
+https://dl.dropboxusercontent.com/u/5098197/atom.xml
+https://dl.dropboxusercontent.com/u/5098197/categories.html
+https://dl.dropboxusercontent.com/u/5098197/index.Rmd
+https://dl.dropboxusercontent.com/u/5098197/index.html
+https://dl.dropboxusercontent.com/u/5098197/pages.html
+https://dl.dropboxusercontent.com/u/5098197/rss.xml
+https://dl.dropboxusercontent.com/u/5098197/sitemap.txt
+https://dl.dropboxusercontent.com/u/5098197/tags.html
 
-http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/second-test
-http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/first-test
-http://dtkaplan.github.io/DCFcontent/lessons/2011/12/29/jekyll-introduction
+https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/second-test
+https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/first-test
+https://dl.dropboxusercontent.com/u/5098197/lessons/2011/12/29/jekyll-introduction

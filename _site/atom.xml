@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Data & Computing Fundamentals</title>
- <link href="http://dtkaplan.github.io/DCFcontent/" rel="self"/>
- <link href="http://dtkaplan.github.io/DCFcontent"/>
- <updated>2014-08-01T17:21:44-05:00</updated>
- <id>http://dtkaplan.github.io/DCFcontent</id>
+ <link href="https://dl.dropboxusercontent.com/u/5098197/" rel="self"/>
+ <link href="https://dl.dropboxusercontent.com/u/5098197"/>
+ <updated>2014-08-02T06:13:10-05:00</updated>
+ <id>https://dl.dropboxusercontent.com/u/5098197</id>
  <author>
    <name>Daniel Kaplan</name>
    <email>dtkaplan@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Second Test</title>
-   <link href="http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/second-test"/>
+   <link href="https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/second-test"/>
    <updated>2014-08-01T00:00:00-05:00</updated>
-   <id>http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/second-test</id>
+   <id>https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/second-test</id>
    <content type="html">&lt;p&gt;This is meant to contain Rmd content for a problem.  There will be a
 link to the Rmd file.&lt;/p&gt;
 </content>
@@ -24,9 +24,9 @@ link to the Rmd file.&lt;/p&gt;
  
  <entry>
    <title>First Test</title>
-   <link href="http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/first-test"/>
+   <link href="https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/first-test"/>
    <updated>2014-08-01T00:00:00-05:00</updated>
-   <id>http://dtkaplan.github.io/DCFcontent/testing/2014/08/01/first-test</id>
+   <id>https://dl.dropboxusercontent.com/u/5098197/testing/2014/08/01/first-test</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
@@ -447,9 +447,9 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&l
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://dtkaplan.github.io/DCFcontent/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="https://dl.dropboxusercontent.com/u/5098197/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-06:00</updated>
-   <id>http://dtkaplan.github.io/DCFcontent/lessons/2011/12/29/jekyll-introduction</id>
+   <id>https://dl.dropboxusercontent.com/u/5098197/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
