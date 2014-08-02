@@ -2,7 +2,6 @@
 https://dl.dropboxusercontent.com/u/5098197/archive.html
 https://dl.dropboxusercontent.com/u/5098197/atom.xml
 https://dl.dropboxusercontent.com/u/5098197/categories.html
-https://dl.dropboxusercontent.com/u/5098197/index.Rmd
 https://dl.dropboxusercontent.com/u/5098197/index.html
 https://dl.dropboxusercontent.com/u/5098197/pages.html
 https://dl.dropboxusercontent.com/u/5098197/rss.xml
